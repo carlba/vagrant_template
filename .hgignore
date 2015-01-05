@@ -6,3 +6,6 @@ syntax: glob
 *.diff
 *.eclipse.core.resources.prefs
 *~
+*-workspace
+*.gz
+*.tar.gz
